@@ -9,3 +9,13 @@
 	"library.h"
 	<math.h>
 
+1654301838 source:/home/almada/aleatorio/projetoaulac/example/library.c
+	"library.h"
+	<math.h>
+
+1654301838 /home/almada/aleatorio/projetoaulac/example/library.h
+
+1654301838 source:/home/almada/aleatorio/projetoaulac/example/main.c
+	<stdio.h>
+	"library.h"
+

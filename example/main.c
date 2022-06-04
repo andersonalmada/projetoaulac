@@ -16,6 +16,7 @@ int main() {
     }
 
     printf("Count: %d", countMore10InMatriz(matriz));
+    printf("Hello World");
 
 
     return 0;
