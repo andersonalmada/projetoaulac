@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654300477 source:/home/almada/project-c/example/main.c
+	<stdio.h>
+	"library.h"
+
+1654300497 /home/almada/project-c/example/library.h
+
+1654300383 source:/home/almada/project-c/example/library.c
+	"library.h"
+	<math.h>
+
